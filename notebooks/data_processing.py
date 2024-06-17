@@ -1,6 +1,6 @@
 #list out string columns and their corresponding encodings
 def encoding(df):
-  df.replace({'Attrition': {'Yes': 1, 'No': 0}}, inplace=True)
+  df.replace({'Attrition': {'Yes': 0, 'No': 1}}, inplace=True)
   df.replace({'BusinessTravel': {'Non-Travel': 0, 'Travel_Rarely': 1, 'Travel_Frequently': 2}}, inplace=True)
   df.replace({'Department': {'Sales': 0, 'Research & Development': 1, 'Human Resources': 2}}, inplace=True)
   df.replace({'EducationField': {'Life Sciences': 0, 'Medical': 1, 'Marketing': 2, 'Technical Degree': 3, 'Other': 4, 'Human Resources': 5}}, inplace=True)
