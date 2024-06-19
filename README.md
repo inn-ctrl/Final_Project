@@ -35,15 +35,13 @@ Pre-assumptions:
      - RelationshipSatisfaction
      - WorkLifeBalance
      - EnvironmentSatisfaction
-     -  DistanceFromHome
+     - DistanceFromHome
+     - NumCompaniesWorked
      
   d. demographics
      - MaritalStatus
      - Gender
      - Age
-     
-  e. Past experience
-     - NumCompaniesWorked
 
   f. Financial security: 
      - MonthlyIncome'
