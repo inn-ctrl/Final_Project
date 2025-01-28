@@ -4,7 +4,7 @@
 Employee attrition vs employee turnover:
 While the two terms gets intertwined sometimes, undrestanding their difference is key in human resources. Similalry, confusing them is too detrimental.
 
-Simply put, employee turnover refers to a number of employees who leave a company over a period of time. 
+Simply put, employee turnover refers to a number of employees who left the company over a period of time. 
 employee attrition refers to a number of employees who leave a company unprecedently or due to uncontrolable reasons
 
 One of the impact employee attrition causes over employee turnover are the following: 
