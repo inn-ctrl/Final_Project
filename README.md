@@ -82,6 +82,8 @@ From the findings, we can see that there are more employees who stayed with the 
 
 9. Interpretation: There is always the current model performance interpretation in the file 3. model_selectin found in the notebooks folder
 
+10. Model Storage: The best model is sotred in requirements with a joblib extention. It can be easily used with any kind of data. 
+
 # References 
 S. Flowers (1974), Why Employees Stay. Retrieved from: https://hbr.org/1973/07/why-employees-stay
 Dataset: Link: https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors
